@@ -19,8 +19,8 @@ jobs:
     
     - name: Add file to repository
       run: |
-        git config --global user.name 'Your Name'
-        git config --global user.email 'youremail@example.com'
+        git config --global user.name 'eaglecodezlk1'
+        git config --global user.email 'eaglecodezlk@gmail.com'
         git add audio.mp3
         git commit -m "Add audio.mp3"
         git push
